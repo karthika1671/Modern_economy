@@ -3,7 +3,7 @@
     padding: 0px;
     list-style: none;
 }
-body{
+body {
     overflow-x: hidden !important;
 }
 .navbar{
@@ -50,6 +50,10 @@ body{
     margin-top: 50px;
     padding: 20px;
     margin-bottom: 20px;
+}
+.fill{
+  overflow: hidden;
+  width:100vw;
 }
 .animate{
     background-color: #FDD02E;
